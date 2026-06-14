@@ -15,3 +15,6 @@
 * Chip- Fe1.1s SSOP-28
 * dimentions: x x (LxWxH)
 
+# Why you will need this micro usb hub?
+Beacuse you definitly need a type-C usb hub if your using a desktop computer. also as its name suggests its very small and compact measures only (50x25x16)mm. So you should build one;)
+
