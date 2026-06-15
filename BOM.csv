@@ -1,2 +1,10 @@
 Name,Qty,Footprint,Source,Unit Price,Price (total)
 ,,,,,
+Fe1.1s USB Hub IC,1,ssop-28,[Aliexpress](https://s.click.aliexpress.com/e/_c3coFDb3),0.20$,0.20$
+16p Type-C receptacle port,4,16p,[Aliexpress](https://s.click.aliexpress.com/e/_c3JNhMQz),0.52$,2.08$
+4p Type-A female port,1,4p,[Aliexpress](https://s.click.aliexpress.com/e/_c4ryhZZn),0.51$,0.51$
+,,,,,
+PCB Fabrication,5,,[JLC PCB](https://jlcpcb.com/quote),0.40$,2.00$
+3D printing,1,,Local vendor,1.00$,1.00$
+,,,,,
+,,Total Price(in USD),,Around 8$(without shiping),
