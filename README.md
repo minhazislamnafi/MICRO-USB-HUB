@@ -28,12 +28,13 @@ files to build your own 4-port compact USB HUB.
 
 ## Requirements
 
-## Hardware:
+## Components:
 
 * Fe1.1s ssop-28 USB hub IC x1 (https://s.click.aliexpress.com/e/_c3coFDb3)
 * 16p Type-C receptical port X4 (https://s.click.aliexpress.com/e/_c3JNhMQz)
 * 4p Type-A port x1 (https://s.click.aliexpress.com/e/_c4ryhZZn)
 
+## For detailed parts list and prices follow [BOM](main/BOM.csv) ##
 
 
 <img width="512" height="536" alt="Screenshot 2026-06-15 024615" src="https://github.com/user-attachments/assets/8d2f1330-ee4e-4c39-b5d3-ed6426fc6367" />
