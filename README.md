@@ -20,6 +20,10 @@
 # Why you will need this micro usb hub?
 Beacuse you definitly need a type-C usb hub if your using a desktop computer. also as its name suggests its very small and compact measures only (50x25x16)mm. So you should build one;)
 
+# Documentation
+In this repository, you can find 3D printable STL files file the USB hub enclosure, Garber, and all the other
+files to build your own 4-port compact USB HUB. 
+
 
 <img width="512" height="536" alt="Screenshot 2026-06-15 024615" src="https://github.com/user-attachments/assets/8d2f1330-ee4e-4c39-b5d3-ed6426fc6367" />
 <img width="671" height="530" alt="Screenshot 2026-06-15 024502" src="https://github.com/user-attachments/assets/76a995f0-1822-4b25-b895-d309d66685e2" />
