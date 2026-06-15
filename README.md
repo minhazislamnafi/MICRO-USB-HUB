@@ -5,6 +5,8 @@
 ![pcb](https://img.shields.io/badge/USB_HUB-v1.1-blue)
 ![port](https://img.shields.io/badge/port-4p-cyan)
 
+<img width="4000" height="5657" alt="Micro USB HUB" src="https://github.com/user-attachments/assets/a652de1f-9d46-4022-adcd-fe029dd72f76" />
+
 
 
 # Specification
