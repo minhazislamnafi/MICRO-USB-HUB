@@ -33,6 +33,12 @@ files to build your own 4-port compact USB HUB.
 * Fe1.1s ssop-28 USB hub IC x1 (https://s.click.aliexpress.com/e/_c3coFDb3)
 * 16p Type-C receptical port X4 (https://s.click.aliexpress.com/e/_c3JNhMQz)
 * 4p Type-A port x1 (https://s.click.aliexpress.com/e/_c4ryhZZn)
+* USBLC6-2SC6 SOT-23-6 x1 (https://s.click.aliexpress.com/e/_c4aL9H4z)
+* 0603 resisotr 5.1k x8 (https://s.click.aliexpress.com/e/_c3cSR54l)
+* 0603 resistor 12k x1 (https://s.click.aliexpress.com/e/_c3cSR54l)
+* 0603 capacitor 10uF x2 (https://s.click.aliexpress.com/e/_c42BS133)
+* 0603 capacitor 22pF x2 (https://s.click.aliexpress.com/e/_c42BS133)
+* 2016 Crystal oscillator x1 (https://s.click.aliexpress.com/e/_c2QYKExf)
 
 ## For detailed parts list and prices follow [BOM](BOM.csv) ##
 
