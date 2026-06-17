@@ -40,12 +40,18 @@ files to build your own 4-port compact USB HUB.
 * 0603 capacitor 22pF x2 (https://s.click.aliexpress.com/e/_c42BS133)
 * 2016 Crystal oscillator x1 (https://s.click.aliexpress.com/e/_c2QYKExf)
 
-## For detailed parts list and prices follow [BOM](BOM.csv) ##
+## For detailed parts list and prices follow [BOM](BOM.csv)
 
 
 <img width="512" height="536" alt="Screenshot 2026-06-15 024615" src="https://github.com/user-attachments/assets/8d2f1330-ee4e-4c39-b5d3-ed6426fc6367" />
 <img width="671" height="530" alt="Screenshot 2026-06-15 024502" src="https://github.com/user-attachments/assets/76a995f0-1822-4b25-b895-d309d66685e2" />
 
-# Onshape Full Assambly [LINK](https://cad.onshape.com/documents/72abdd8eb848de8d8be587be/w/fde1524f77307cafb45bef5a/e/de3ea8da0c261ec2d1304d2f?renderMode=0&uiState=6a2f2679a6140eb0eaf3c990)
+# Onshape Full Assembly [LINK](https://cad.onshape.com/documents/72abdd8eb848de8d8be587be/w/fde1524f77307cafb45bef5a/e/de3ea8da0c261ec2d1304d2f?renderMode=0&uiState=6a2f2679a6140eb0eaf3c990)
 
+## For 3D printing the enclosure 
 
+You will find the printable .STL file [Here](CAD/Micro%usb%hub.stl)
+
+Slice the model in center half and print them like this.
+
+<img width="1365" height="767" alt="Screenshot 2026-06-17 150402" src="https://github.com/user-attachments/assets/05687283-1934-4c21-8846-d16ae3c41590" />
