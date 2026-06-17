@@ -50,8 +50,8 @@ files to build your own 4-port compact USB HUB.
 
 ## For 3D printing the enclosure 
 
-You will find the printable .STL file [Here](CAD/Micro%20usb%20hub.stl)
+**You will find the printable .STL file [Here](CAD/Micro%20usb%20hub.stl)**
 
-Slice the model in center half and print them like this.
+**Slice the model in center half and print them like this.**
 
 <img width="1365" height="767" alt="Screenshot 2026-06-17 150402" src="https://github.com/user-attachments/assets/05687283-1934-4c21-8846-d16ae3c41590" />
